@@ -1,11 +1,12 @@
-# 👋 Hello, I'm Nourhenne!  
-🌟 Full-Stack Developer | UI/UX Designer | Lifelong Learner  
+# 👋 Hey there, I'm Nourhenne!  
+🌟 Full-Stack Developer | UI/UX Designer | Tech Explorer | Lifelong Learner  
 
-I'm a passionate developer from Tunisia who loves **understanding how things work** and turning ideas into **real-world solutions**. I thrive on exploring **new technologies** and applying them creatively.  
+I love **turning ideas into real-world solutions** and exploring **how things work behind the scenes**.  
+From coding dynamic web apps to designing smooth UI experiences, I’m always learning and building! 🚀  
 
 ---
 
-## 🚀 Tech Stack & Skills
+## 🛠️ Tech Stack & Skills
 
 ### 💻 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)  
@@ -23,17 +24,17 @@ I'm a passionate developer from Tunisia who loves **understanding how things wor
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)  
 
-### 🎨 Design & Visualization
+### 🎨 Design & Data Viz
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)  
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=white)  
 
-### ☁️ Networking & Cloud
+### ☁️ Cloud & Networking
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)  
 
-### 🧑‍💻 Other Tools
+### 🧰 Tools & Methodologies
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
@@ -42,14 +43,22 @@ I'm a passionate developer from Tunisia who loves **understanding how things wor
 ---
 
 ## 💡 About Me
-- 🌱 Lifelong learner passionate about **understanding how systems work**  
-- 💡 Always exploring **new technologies & tools**  
-- 🔧 Committed to **building projects that create impact**  
-- ✨ Curious, creative, and problem-solving enthusiast  
+- 🌱 Lifelong learner curious about **how systems & apps work**  
+- 💡 Always exploring **new tech & creative tools**  
+- 🔧 Building projects that **make an impact**  
+- ✨ Curious, imaginative, and problem-solving enthusiast  
 
-## 📫 Connect with Me 
+---
+
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ton-lien-linkedin/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ton.email@example.com)  
 
+---
 
 ## 📊 GitHub Stats
 ![Nourhenne's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nourhenne123&show_icons=true&theme=radical&hide_border=true)
+
+
